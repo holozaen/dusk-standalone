@@ -3,3 +3,4 @@
 /tests/Browser/screenshots
 composer.lock
 .phpunit.result.cache
+/.idea
